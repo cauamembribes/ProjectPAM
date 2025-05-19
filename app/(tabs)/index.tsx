@@ -1,4 +1,4 @@
-import { Text, TouchableOpacity, View } from 'react-native';
+import { Text, TouchableOpacity, View, StyleSheet } from 'react-native';
 
 export default function Index() {
   const nome = "joao vitor";
@@ -22,3 +22,11 @@ export default function Index() {
   </View>
 
 } 
+
+
+const styles = StyleSheet.create({
+
+  
+
+
+})
